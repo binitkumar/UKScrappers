@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  forsquare_id: MyString
+  name: MyString
+  phone: MyString
+  twitter: MyString
+  facebook: MyString
+  facebook_name: MyString
+  checkins_count: MyString
+  tips_count: MyString
+  users_count: MyString
+  url: MyText
+  store_id: MyString
+  referal_id: MyString
+
+two:
+  forsquare_id: MyString
+  name: MyString
+  phone: MyString
+  twitter: MyString
+  facebook: MyString
+  facebook_name: MyString
+  checkins_count: MyString
+  tips_count: MyString
+  users_count: MyString
+  url: MyText
+  store_id: MyString
+  referal_id: MyString

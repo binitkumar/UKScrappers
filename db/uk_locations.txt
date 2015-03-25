@@ -1,0 +1,1229 @@
+Locations	Latitude	Longitude
+Bala	52°54'N	03°36'W
+Bala, L.,	52°53'N	03°37'W
+Baleshare	57°31'N	07°22'W
+Ballachulish	56°41'N	05°08'W
+Ballaster	57°03'N	03°03'W
+Ballycastle	55°12'N	06°15'W
+Ballyclare	54°46'N	06°00'W
+Ballymena	54°52'N	06°17'W
+Ballymoney	55°05'N	06°31'W
+Ballynahinch	54°24'N	05°54'W
+Ballyquintin Pt.,	54°20'N	05°30'W
+Banbridge	54°22'N	06°16'W
+Banbury	52°04'N	01°20'W
+Banchory	57°03'N	02°29'W
+Banff	57°40'N	02°33'W
+Bangor, Down	54°40'N	05°40'W
+Bangor, Gwynedd	53°14'N	04°08'W
+Bann, Arm	54°30'N	06°31'W
+Bann, L'derry.	55°08'N	06°41'W
+Bannockburn	56°05'N	03°55'W
+Bardsey I.	52°45'N	4°47'W
+Bermouth	52°44'N	04°04'W
+Barnard Castle	54°33'N	01°55'W
+Barnet	51°38'N	00°09'W
+Barnsley	53°34'N	01°27'W
+Barnstaple	51°05'N	04°04'W
+Barnstaple Bay / Bideford Bay	51°05'N	04°20'W
+Barra	57°00'N	07°29'W
+Barra, Sd. Of	57°04'N	07°25'W
+Barra Hd.	56°47'N	07°40'W
+Barraigh / Barra	57°00'N	07°29'W
+Barrow-in-Furness	54°07'N	03°14'W
+Barry	51°24'N	03°16'W
+Barton upon Humber	53°41'N	02°25'W
+Basildon	51°34'N	00°28'E
+Basingstoke	51°15'N	01°05'W
+Bath	51°23'N	02°22'W
+Bath & North East Somerset	51°21'N	02°27'W
+Battle	50°55'N	00°30'E
+Beachy Hd.	50°44'N	00°15'E
+Beauly	57°30'N	04°28'W
+Beauly	57°29'N	04°27'W
+Beaumaris	53°16'N	04°06'W
+Beccles	52°27'N	01°35'E
+Bedford	52°08'N	00°28'W
+Bedfordshire	52°04'N	00°28'W
+Beeston	52°56'N	01°14'W
+Beinn na Faoghla/Benbecula	57°26'N	07°21'W
+Belfast	54°37'N	05°56'W
+Belfast L.	54°40'N	05°50'W
+Ben Cruachan	56°26'N	05°08'W
+Ben Dearg	57°47'N	04°56'W
+Ben Hope	58°25'N	04°36'W
+Ben Lawers	56°32'N	04°14'W
+Ben Lomond	56°11'N	04°38'W
+Ben Macdhui	57°04'N	03°40'W
+Ben Mhor	57°15'N	07°18'W
+Ben More, Arg. & Bute	56°26'N	06°01'W
+Ben More, Stirl.	56°23'N	04°32'W
+Ben More Assynt	58°08'N	04°52'W
+Ben Nevis	56°48'N	05°01'W
+Ben Vorlich	56°21'N	04°14'W
+Ben Wyvis	57°40'N	04°35'W
+Benbecula	57°26'N	07°21'W
+Berkshire Downs	51°33'N	01°29'W
+Berneray	57°43'N	07°11'W
+Berwick-upon-Tweed	55°46'N	02°00'W
+Berwyn Mts.	52°54'N	03°26'W
+Betws-y-Coed	53°05'N	03°48'W
+Beulah, Mich.	44°38'N	86°06'W
+Beverley	53°51'N	00°26'W
+Bexhill	50°51'N	00°29'E
+Bicester	51°54'N	01°09'W
+Bideford	51°01'N	04°13'W
+Bideford Bay	51°05'N	04°20'W
+Bigger	55°38'N	03°32'W
+Biggleswade	52°05'N	00°14'W
+Birkenhead	53°23'N	03°02'W
+Birmingham	52°29'N	01°52'W
+Bishop Auckland	54°39'N	01°40'W
+Bishop's Stortford	51°52'N	00°10'E
+Black Mt./Mynydd Du	51°52'N	03°50'W
+Black Mts.	51°55'N	03°07'W
+Blackburn	53°45'N	02°29'W
+Black with Darwen	53°45'N	02°29'W
+Blackpool	53°49'N	03°03'W
+Blackpool	53°49'N	03°03'W
+Blackwater	54°31'N	06°35'W
+Blaenau Ffestiniog	53°00'N	03°56'W
+Blaenau Gwent	51°48'N	03°12'W
+Blair Atholl	56°46'N	03°50'W
+Blairgowrie	56°35'N	03°21'W
+Blandford Forum	50°51'N	02°09'W
+Blaydon	54°58'N	01°42'W
+Bletchley	51°59'N	00°44'W
+Blyth	55°08'N	01°31'W
+Boddam	59°56'N	01°17'W
+Bodmin	50°28'N	04°43'W
+Bodmin Moor	50°33'N	04°36'W
+Bognor Regis.	50°47'N	00°40'W
+Bold Head	50°12'N	03°48'W
+Bolton	53°35'N	02°26'W
+Bo'ness	56°01'N	03°37'W
+Bonnyrigg	55°53'N	03°06'W
+Bootle	53°28'N	03°01'W
+Borders / Scottish Borders	55°35'N	02°50'W
+Borehamwood	51°40'N	00°15'W
+Borth	52°29'N	04°02'W
+Boscastle	50°41'N	04°42'W
+Boston	52°59'N	00°02'W
+Bourne	52°47'N	00°22'W
+Bournemouth	50°43'N	01°52'W
+Bournemouth	50°43'N	01°52'W
+Bowland, Forest of	54°00'N	02°30'W
+bowmore	55°45'N	06°17'W
+Bracadale, L.	57°20'N	06°30'W
+Bracknell	51°25'N	00°43'W
+Bracknell Forest	51°25'N	00°44'W
+Bradford	53°47'N	01°45'W
+Braich-y-pwll	52°47'N	04°46'W
+Braintree	51°53'N	00°34'E
+Brampton	54°57'N	02°44'W
+Braunton	51°07'N	04°10'W
+Brechin	56°44'N	02°39'W
+Breckland	52°30'N	00°40'E
+Brecon	51°57'N	03°23'W
+Brecon Beacons	51°53'N	03°26'W
+Brentwood	51°37'N	00°19'E
+Bressay	60°09'N	01°06'W
+Bridgend	51°30'N	03°34'W
+Bridgend	51°36'N	03°36'W
+Bridgnorth	52°32'N	02°25'W
+Bridgwater	51°08'N	02°59'W
+Bridgwater B.	51°15'N	03°15'W
+Bridlington	54°05'N	00°12'W
+Bridlington B.	54°04'N	00°10'W
+Bridport	50°44'N	02°45'W
+Brigg	46°18'N	07°59'E
+Brighton	50°49'N	00°07'W
+Bristol	51°26'N	02°35'W
+Bristol, City of	51°27'N	02°36'W
+Bristol Channel	51°18'N	04°30'W
+Brixham	50°23'N	03°31'W
+Broad B.	58°14'N	06°18'W
+Broad Law	55°30'N	03°21'W
+Broads, The	52°45'N	01°30'E
+Brodick	55°35'N	05°09'W
+Bromley	51°24'N	00°02'E
+Bromsgrove	52°21'N	02°02'W
+Broom, L.	57°55'N	05°15'W
+Brora	58°00'N	03°52'W
+Brora	58°00'N	03°51'W
+Brough	54°32'N	02°18'W
+Brought Hd.	59°08'N	03°20'W
+Brown Willy	50°35'N	04°37'W
+Brue	51°13'N	02°59'W
+Buchan	57°32'N	02°21'W
+Buchan Ness	57°29'N	01°46'W
+Buckhaven	56°11'N	03°03'W
+Buckie	57°41'N	02°58'W
+Buckingham	51°59'N	00°57'W
+Buckinghamshire	51°53'N	00°55'W
+Buckley	53°10'N	03°05'W
+Bude	50°49'N	04°34'W
+Bulith Wells	52°09'N	03°25'W
+Bungay	52°27'N	01°28'E
+Bure	52°38'N	01°43'E
+Burnham-on-sea	51°14'N	03°00'W
+Burnley	53°47'N	02°14'W
+Burray	58°51'N	02°54'W
+Burrow Hd.	54°41'N	04°24'W
+Burry Port	51°41'N	04°15'W
+Burton upon Trent	52°48'N	01°38'W
+Burwick	58°45'N	02°58'W
+Bury	53°35'N	02°17'W
+Bury St. Edmunds	52°15'N	00°43'E
+Bute	55°48'N	05°02'W
+Buxton	53°16'N	01°54'W
+Cader Idris	52°42'N	03°53'W
+Caernarfon	53°08'N	04°16'W
+Caernarfon B.	53°04'N	04°40'W
+Caernarvon / Caernarfon	53°08'N	04°16'W
+Caerphilly	51°35'N	03°13'W
+Caerphilly	51°37'N	03°12'W
+Cairn Gorm	57°07'N	03°39'W
+Cairngorm Mts.	57°06'N	03°42'W
+Cairnryan	54°59'N	05°01'W
+Caithness, Ord of	58°08'N	03°36'W
+Calder	53°44'N	01°22'W
+Calf of Man	54°03'N	04°48'W
+Calne	51°26'N	02°00'W
+Cam	52°21'N	00°16'E
+Camborne	50°12'N	05°19'W
+Cambrian Mts.	52°03'N	03°57'W
+Cambridge	52°12'N	00°08'E
+Cambridgeshire	52°25'N	00°07'W
+Campbeltown	55°26'N	05°36'W
+Canna	57°03'N	06°33'W
+Cannock	52°41'N	02°01'W
+Canterbury	51°16'N	01°06'E
+Canvey	51°31'N	00°37'E
+Cardiff	51°29'N	03°10'W
+Cardiff	51°31'N	03°12'W
+Cardigan	52°05'N	04°40'W
+Cardigan B.	52°30'N	04°30'W
+Carlingford L.	54°03'N	06°09'W
+Carlisle	54°54'N	02°56'W
+Carluke	55°45'N	03°50'W
+Carmarthen	51°52'N	04°19'W
+Carmarthen B.	51°40'N	04°30'W
+Carmarthenshire	51°55'N	04°13'W
+Carn Ban	57°07'N	04°15'W
+Carn Eige	57°17'N	05°08'W
+Carnoustie	56°30'N	02°42'W
+Carrickfergus	54°43'N	05°49'W
+Carron	57°53'N	04°22'W
+Carron, L.	57°22'N	05°35'W
+Castle Douglas	54°56'N	03°56'W
+Castlederg	54°42'N	07°35'W
+Castleford	53°43'N	01°21'W
+Castletown	54°05'N	04°38'W
+Caterham	51°15'N	00°04'W
+Ceredigion	52°16'N	04°15'W
+Channel Is.	49°19'N	02°24'W
+Chard	50°52'N	02°58'W
+Chatham	51°22'N	00°32'E
+Chatteris	52°28'N	00°02'E
+Chelmsford	51°44'N	00°29'E
+Cheltenham	51°54'N	02°04'W
+Chepstow	51°38'N	02°41'W
+Cherwell	51°44'N	01°14'W
+Cheshire	53°14'N	02°30'W
+Cheshunt	51°43'N	00°01'W
+Chesil Beach	50°37'N	02°33'W
+Chester	53°12'N	02°53'W
+Chester-le-street	54°51'N	01°34'W
+Chesterfield	53°15'N	01°25'W
+Cheviot, The	55°29'N	02°09'W
+Cheviot Hills	55°20'N	02°30'W
+Chichester	50°50'N	00°47'W
+Chigwell	51°37'N	00°05'E
+Chiltern Hills	51°40'N	00°53'W
+Chippenham	51°27'N	02°06'W
+Chipping Norton	51°56'N	01°32'W
+Chorley	53°39'N	02°38'W
+Christchurch	50°44'N	01°47'W
+Cirencester	51°43'N	01°57'W
+Clackmannanshire	56°10'N	03°43'W
+Clacton-on-sea	51°47'N	01°11'E
+Clee Hills	52°26'N	02°35'W
+Cleethorpes	53°33'N	00°03'W
+Cleeve Cloud	51°56'N	02°00'W
+Clevedon	51°26'N	02°52'W
+Clisham	57°57'N	06°49'W
+Clitheroe	53°53'N	02°22'W
+Clwyd	53°19'N	03°31'W
+Clyde	55°55'N	04°30'W
+Clyde, Firth of	55°22'N	05°01'W
+Clydebank	55°54'N	04°23'W
+Coalisland	54°33'N	06°42'W
+Coalville	52°44'N	01°23'W
+Coatbridge	55°52'N	04°06'W
+Cockermouth	54°40'N	03°22'W
+Coigeach, Rubha	58°06'N	05°26'W
+Colchester	51°54'N	00°55'E
+Coldstream	55°39'N	02°15'W
+Coleraine	55°08'N	06°41'W
+Coll	56°39'N	06°34'W
+Colonsay	56°05'N	06°12'W
+Colwyn Bay	53°18'N	03°44'W
+Comber	54°33'N	05°45'W
+Congleton	53°10'N	02°13'W
+Consett	54°51'N	01°50'W
+Conway / Conway	53°17'N	03°50'W
+Conway / Conway	53°17'N	03°50'W
+Conwy	53°17'S	03°50'W
+Conwy	53°10'N	03°44'W
+Conwy	53°17'N	03°50'W
+Cookstown	54°39'N	06°45'W
+Coquet	55°20'N	01°32'W
+Corby	52°30'N	00°41'W
+Cornwall	50°26'N	04°40'W
+Cotswold Hills	51°42'N	02°10'W
+Coventry	52°25'N	01°28'W
+Cowdenbeath	56°07'N	03°21'W
+Cowes	50°45'N	01°18'W
+Craigavon	54°27'N	06°23'W
+Crawley	51°07'N	00°11'W
+Cree	54°55'N	04°25'W
+Crewe	53°06'N	02°26'W
+Crewkerne	50°53'N	02°48'W
+Crieff	56°22'N	03°50'W
+Cromarty	57°40'N	04°02'W
+Cromer	52°56'N	01°17'E
+Crook	54°43'N	01°45'W
+Crosby	53°30'N	03°03'W
+Cross Fell	54°43'N	02°28'W
+Croydon	51°22'N	00°05'W
+Cuckfield	51°01'N	00°08'W
+Cuillin Hills	57°13'N	06°15'W
+Cuillin Sd.	57°04'N	06°20'W
+Cullen	57°42'N	02°49'W
+Cumbernauld	55°57'N	03°58'W
+Cumbria	54°42'N	02°52'W
+Cumbrian Mts.	54°30'N	03°00'W
+Cumnock	55°28'N	04°17'W
+Cupar	56°19'N	03°01'W
+Cwmbran	51°39'N	03°02'W
+Dalbeattie	54°56'N	03°50'W
+Dalkeith	55°54'N	03°04'W
+Dalmellington	55°19'N	04°23'W
+Dalry	55°42'N	04°43'W
+Dalton-in-Furness	54°10'N	03°11'W
+Darlington	54°32'N	01°33'W
+Darlington	54°32'N	01°33'W
+Dart	50°24'N	03°39'W
+Dartford	51°26'N	00°13'E
+Dartmoor	50°38'N	03°57'W
+Dartmouth	50°21'N	03°36'W
+Darwen	53°42'N	02°29'W
+Daventry	52°16'N	01°10'W
+Dawlish	50°35'N	03°28'W
+Deal	51°13'N	01°25'E
+Dean, Forest of	51°45'N	02°33'W
+Dee, Aberds.	57°09'N	02°05'W
+Dee, Dumf. & Gall.	54°51'N	04°03'W
+Dee, Wales	53°22'N	03°17'W
+Denbigh	53°12'N	03°25'W
+Denbighshire	53°08'N	03°22'W
+Denny	56°01'N	03°55'W
+Derby	52°56'N	01°28'W
+Derby City	52°56'N	01°28'W
+Derbyshire	53°11'N	01°38'W
+Derg	54°44'N	07°26'W
+Derry / Londonderry	55°00'N	07°20'W
+Derry / Londonderry	55°00'N	07°20'W
+Derwent, Cumb.	54°39'N	03°33'W
+Derwent, Derby	52°57'N	01°28'W
+Derwent, N. Yorks.	53°45'N	00°58'W
+Derwent Water	54°35'N	03°09'W
+Deveron	57°41'N	02°32'W
+Devizes	51°22'N	01°58'W
+Devon	50°50'N	03°40'W
+Dingwall	57°36'N	04°26'W
+Diss	52°23'N	01°07'E
+Dolgellau	52°45'N	03°53'W
+Dolgelley / Dolgellau	52°45'N	03°53'W
+Don, Aberds.	57°11'N	02°05'W
+Don, S. Yorks.	53°41'N	00°52'W
+Donaghadee	54°39'N	05°33'W
+Doncaster	53°32'N	01°06'W
+Doon	55°27'N	04°39'W
+Dorchester	50°42'N	02°27'W
+Dornie	57°17'N	05°31'W
+Dornoch	57°53'N	04°02'W
+Dornoch Firth	57°51'N	04°04'W
+Dorset	50°45'N	02°26'W
+Douglas	54°10'N	04°28'W
+Dounreay	58°35'N	03°44'W
+Dove	52°51'N	01°36'W
+Dover	51°07'N	01°19'E
+Dovey / Dyfi	52°32'N	04°03'W
+Down	54°23'N	06°02'W
+Downham Market	52°37'N	00°23'E
+Downpatrick	54°20'N	05°43'W
+Driffield	54°00'N	00°26'W
+Droitwich	52°16'N	02°08'W
+Dromore	54°31'N	07°28'E
+Dronfield	53°19'N	01°27'W
+Dudley	52°31'N	02°05'W
+Dufftown	57°27'N	03°08'W
+Dumbarton	55°57'N	04°33'W
+Dumfries	55°04'N	03°37'W
+Dumfries & Galloway	55°09'N	03°58'W
+Dunbar	56°00'N	02°31'W
+Dunblane	56°11'N	03°58'W
+Duncansby Head	58°38'N	03°01'W
+Dundee	56°28'N	02°59'W
+Dundee City	56°30'N	02°58'W
+Dundrum	54°16'N	05°52'W
+Dundrum B.	54°13'N	05°47'W
+Dunfermline	56°05'N	03°27'W
+Dungannon	54°31'N	06°46'W
+Dungeness	50°54'N	00°59'E
+Dunkeld	56°34'N	03°35'W
+Dunkery Beacon	51°09'N	03°36'W
+Dunnet Hd.	58°40'N	03°21'W
+Dunoon	55°57'N	04°56'W
+Duns	55°47'N	02°20'W
+Dunstable	51°53'N	00°32'W
+Durham	54°47'N	01°34'W
+Durham	54°42'N	01°45'W
+Durness	58°34'N	04°45'W
+Dyce	57°13'N	02°12'W
+Dyfi	52°32'N	04°03'W
+Ealing	51°31'N	00°20'W
+Earn	56°21'N	03°18'W
+Earn, L.	56°23'N	04°13'W
+Eas Anglia	52°30'N	01°00'E
+East Ayrshire	55°26'N	04°11'W
+East Dereham	52°41'N	00°57'E
+East Dunbartonshire	55°57'N	04°13'W
+East Grinstead	51°07'N	00°00'W
+East Kilbride	55°47'N	04°11'W
+East Lothian	55°58'N	02°44'W
+East Renfrewshire	55°46'N	04°21'W
+East Retford / Retford	53°19'N	00°56'W
+East Rinding of Yorkshire	53°55'N	00°30'W
+East Sussex	50°56'N	00°19'E
+Eastbourne	50°46'N	00°18'E
+Eastleigh	50°58'N	01°21'W
+Ebbw Vale	51°46'N	03°12'W
+Eday	59°11'N	02°47'W
+Eddrachillis B.	58°17'N	05°14'W
+Eden	54°57'N	03°01'W
+Edge Hill	52°08'N	01°26'W
+Edinburgh	55°57'N	03°13'W
+Edinburgh, City of	55°57'N	03°17'W
+Eigg	56°54'N	06°10'W
+Eil, L.	56°51'N	05°16'W
+Elgin	57°39'N	03°19'W
+Ellesmere Port	53°17'N	02°54'W
+Ellon	57°22'N	02°04'W
+Ely	52°24'N	00°16'E
+Enard B.	58°05'N	05°20'W
+England	53°00'N	02°00'W
+Enniskillen	54°21'N	07°39'W
+Epsom	51°19'N	00°16'W
+Eriboll, L.	58°30'N	04°42'W
+Eriskay	57°04'N	07°18'W
+Erne Lower L.	54°28'N	07°47'W
+Erne Upper L.	54°14'N	07°32'W
+Esha Ness	60°29'N	01°38'W
+Esher	51°21'N	00°20'W
+Esk, Cumb.	54°58'N	03°02'W
+Esk, N. Yorks.	54°30'N	00°37'W
+Essex	51°54'E	00°27'E
+Etive, L.	56°29'N	05°10'W
+Etrick Water	55°31'N	02°55'W
+Evesham	52°06'N	01°56'W
+Ewe, L.	57°49'N	05°38'W
+Exe	50°41'N	03°29'W
+Exeter	50°43'N	03°31'W
+Exmouth	50°37'N	03°25'W
+Eye Pen.	58°13'N	06°10'W
+Eyemouth	55°52'N	02°05'W
+Fair Hd.	55°14'N	06°09'W
+Fakenham	52°51'N	00°51'E
+Falkirk	56°00'N	03°47'W
+Falkirk	55°58'N	03°49'W
+Falkland	56°16'N	03°12'W
+Falmouth	50°09'N	05°05'W
+Fannich, L.	57°38'N	04°59'W
+Fareham	50°51'N	01°11'W
+Farne Is.	55°38'N	01°37'W
+Felixstowe	51°58'N	01°23'E
+Fens, The	52°38'N	00°02'W
+Fermanagh	54°21'N	07°40'W
+Fetlar	60°36'N	00°52'W
+Fife	56°16'N	03°01'W
+Fife Ness	56°17'N	02°35'W
+Filey	54°12'N	00°18'W
+Filey B.	54°12'N	00°15'W
+Findhorn	57°38'N	03°38'W
+Fishguard	52°00'N	04°58'W
+Flamborouh Hd.	54°07'N	00°05'W
+Flannan Is.	40°10'N	119°53'W
+Fleetwood	38°31'N	03°01'W
+Flint	53°15'N	03°08'W
+Flintshire	53°17'N	03°17'W
+Flodden	55°37'N	02°08'W
+Folkestone	51°05'N	01°12'E
+Forfar	56°39'N	02°53'W
+Formby Pt.	53°33'N	03°06'W
+Forres	57°37'N	03°37'W
+Fort Augustus	57°09'N	04°42'W
+Fort William	56°49'N	05°07'W
+Forth	56°09'N	03°50'W
+Forth, Firth of	56°05'N	02°55'W
+Fortrose	57°35'N	04°09'W
+Foula	60°10'N	02°05'W
+Foulness I.	51°36'N	00°55'E
+Fowey	50°20'N	04°39'W
+Foyle, Lough	55°07'N	07°04'W
+Fraserburgh	57°42'N	02°01'W
+Frome	51°14'N	02°19'W
+Frome	50°41'N	02°06'W
+Fylde	53°50'N	02°58'W
+Fyne, L.	55°59'N	05°23'W
+Gairloch, L.	57°43'N	05°45'W
+Galashiels	55°37'N	02°49'W
+Gallan Hd.	58°15'N	07°02'W
+Galloway	55°01'N	04°29'W
+Galloway, Mull of	54°39'N	04°52'W
+Garforth	53°47'N	01°24'W
+Garron Pt.	55°03'N	05°59'W
+Garry	56°44'N	03°47'W
+Gatehouse of Fleet	54°53'N	04°12'W
+Gateshead	54°57'N	01°35'W
+Giants Causeway	55°16'N	06°29'W
+Gigha	55°42'N	05°44'W
+Gillingham	51°23'N	00°33'E
+Girdle Ness	57°09'N	02°03'W
+Girvan	55°14'N	04°51'W
+Glasgow	55°51'N	04°12'W
+Glasgow, City of	55°51'N	04°12'W
+Glastonbury	51°09'N	02°43'W
+Glen Affric	57°17'N	05°01'W
+Glen Coe	56°40'N	05°00'W
+Glen Garry	57°03'N	05°07'W
+Glen Mor	57°09'N	04°37'W
+Glen Moriston	57°11'N	04°52'W
+Glen Spean	56°53'N	04°40'W
+Glenrothes	56°12'N	03°10'W
+Glossop	53°27'N	01°56'W
+Gloucester	51°53'N	02°15'W
+Gloucestershire	51°46'N	02°15'W
+Goat Fell	55°38'N	05°11'W
+Golspie	57°58'N	03°59'W
+Goole	53°42'N	00°53'W
+Gosport	50°48'N	01°09'W
+Gower	51°35'N	04°10'W
+Grafham Water	52°19'N	00°18'W
+Grampian Highlands/ Grampian Mts.	56°50'N	04°00'W
+Grampian Mts.	56°50'N	04°00'W
+Grand Union Canal	52°07'N	00°53'W
+Grangemouth	56°01'N	03°42'W
+Grantham	52°55'N	00°38'W
+Grantown-on-spey	57°20'N	03°36'W
+Gravesend	51°26'N	00°22'E
+Great Driffield / Driffield	54°00'N	00°26'W
+Great Malvern	52°07'N	02°18'W
+Great Ormes Head	53°20'N	03°52'W
+Great Ouse	52°48'N	00°21'E
+Great Stour / Stour	51°18'N	01°22'E
+Great Whernside	54°10'N	01°58'W
+Great Yarmouth	52°37'N	01°44'E
+Greater London	51°31'N	00°06'W
+Greater Manchester	53°30'N	02°15'W
+Greenock	55°57'N	04°46'W
+Greenstone Pt.	57°55'N	05°37'W
+Greenwich	51°29'N	00°01'E
+Gretna	55°00'N	03°03'W
+Grimsay	57°29'N	07°14'W
+Grimsby	53°34'N	00°05'W
+Gruinard B.	57°56'N	05°35'W
+Guernsey	49°26'N	02°35'W
+Guildford	51°14'N	00°34'W
+Gwynedd	52°52'N	04°10'W
+Hadrian's Wall	55°00'N	02°30'W
+Halesowen	52°27'N	02°03'W
+Halifax	53°43'N	01°52'W
+Halkirk	58°30'N	03°29'W
+Halstead	51°57'N	00°40'E
+Halton	53°22'N	02°45'W
+Haltwhistle	54°58'N	02°26'W
+Hamilton	55°46'N	04°02'W
+Hampshire	51°07'N	01°23'W
+Hampshire Downe	51°15'N	01°10'W
+Harlech	52°52'N	04°06'W
+Harlow	51°46'N	00°08'E
+Haroldswick	60°48'N	00°50'W
+Harris	57°50'N	06°55'W
+Harris, Sd. Of	57°44'N	07°06'W
+Harrogate	54°00'N	01°33'W
+Harrow	51°35'N	00°21'W
+Hartland Pt.	51°01'N	04°32'W
+Hartlepool	54°42'N	01°13'W
+Hartlepool	54°42'N	01°17'W
+Harwich	51°56'N	01°17'E
+Haslemere	51°05'N	00°43'W
+Hastings	50°51'N	00°35'E
+Havant	50°51'N	00°58'W
+Haverfordwest	51°48'N	04°58'W
+Hawick	55°26'N	02°47'W
+Hay-on-Wye	52°05'N	03°08'W
+Hayle	50°11'N	05°26'W
+Hayling I.	50°48'N	00°59'W
+Haywards Heath	51°00'N	00°05'W
+Hebrides	57°30'N	07°00'W
+Hebrides, Sea of the	57°05'N	07°00'W
+Helensburgh	56°01'N	04°43'W
+Helmsdale	58°07'N	03°39'W
+Helmsdale	58°07'N	03°40'W
+Helston	50°06'N	05°17'W
+Helvellyn	54°32'N	03°01'W
+Hemel Hempstead	51°44'N	00°28'W
+Hereford	52°04'N	02°43'W
+Herefordshire	52°08'N	02°40'W
+Herm	49°30'N	02°28'W
+Herne Bay	51°21'N	01°08'E
+Hertford	51°48'N	00°04'W
+Hertfordshire	51°51'N	00°05'W
+Hexham	54°58'N	02°04'W
+Heysham	54°03'N	02°53'W
+High Wycombe	51°37'N	00°45'W
+Highland	57°17'N	04°21'W
+Hinckley	52°33'N	01°22'W
+Hitchin	51°58'N	00°16'W
+Holsworthy	50°48'N	04°22'W
+Holy I. Angl.	53°17'N	04°37'W
+Holy I. Northumb.	55°40'N	01°47'W
+Holyhead	53°18'N	04°38'W
+Honiton	50°47'N	03°11'W
+Horncastle	53°13'N	00°07'W
+Hornsea	53°55'N	00°11'W
+Horsham	51°04'N	00°20'W
+Hove	50°50'N	00°10'W
+Hoy	58°50'N	03°15'W
+Hoylake	53°24'N	03°10'W
+Hucknall	53°03'N	01°13'W
+Huddersfield	53°39'N	01°47'W
+Hull / Kingston upon Hull	53°45'N	00°21'W
+Locations	Latitude	Longitude
+Hull	53°44'N	00°20'W
+Humber	53°42'N	00°27'W
+Hunstanton	52°56'N	00°29'E
+Huntingdon	52°20'N	00°11'W
+Huntly	57°27'N	02°47'W
+Hythe	51°04'N	01°05'E
+Ilfracombe	51°12'N	04°08'W
+Ilkeston	52°58'N	01°19'W
+Ilkley	53°56'N	01°48'W
+Immingham	53°37'N	00°13'W
+Ingleborough	54°10'N	02°22'W
+Inner Hebrides	57°00'N	06°30'W
+Inner Sound	57°30'N	05°55'W
+Inveraray	56°14'N	05°05'W
+Inverbervie	56°51'N	02°17'W
+Inverclyde	55°55'N	04°49'W
+Invergordon	57°41'N	04°10'W
+Inverness	57°29'N	04°13'W
+Inverurie	57°17'N	02°23'W
+Iona	56°20'N	06°25'W
+Ipswich	52°04'N	01°10'E
+Irish Sea	53°38'N	04°48'W
+Irvine	55°37'N	04°41'W
+Irvinestown	54°28'N	07°39'W
+Isla	56°32'N	03°20'W
+Islay	55°46'N	06°10'W
+Isle of Wight	50°41'N	01°17'W
+Itchen	50°55'N	01°22'W
+Ivybridge	50°23'N	03°56'W
+Jedburgh	55°29'N	02°33'W
+Jersey	49°11'N	02°07'W
+Johon o' Groats	58°38'N	03°04'W
+Jura	56°00'N	05°50'W
+Jura, Sd. Of	55°57'N	05°45'W
+Katrine, L.	56°15'N	04°30'W
+Keady	54°15'N	06°42'W
+Keighley	53°52'N	01°54'W
+Keith	57°32'N	02°57'W
+Kelso	55°36'N	02°26'W
+Kendal	54°20'N	02°44'W
+Kennet	51°27'N	00°57'W
+Kent	51°12'N	00°40'E
+Kernow / Cornwall	50°26'N	04°40'W
+Kerrera	56°24'N	05°33'W
+Keswick	54°36'N	03°08'W
+Kettering	52°24'N	00°43'W
+Keynsham	51°24'N	02°29'W
+Kidderminser	52°24'N	02°15'W
+Kidsgrove	53°05'N	02°14'W
+Kielder Water	55°11'N	02°31'W
+Kilbrannan Sd.	55°37'N	05°26'W
+Kilkeel	54°04'N	06°00'W
+Killin	56°28'N	04°19'W
+Kilmarnock	55°37'N	04°29'W
+Kilwinning	55°39'N	04°43'W
+Kinder Scout	53°24'N	01°52'W
+King's Lynn	52°45'N	00°24'E
+Kingsbridge	50°17'N	03°47'W
+Kingston upon Hull	53°45'N	00°21'W
+Kingston upon Hull	53°45'N	00°21'W
+Kingston-upon-Thames	51°24'N	00°17'W
+Kingussie	57°06'N	04°02'W
+Kinnairds Hd.	57°43'N	02°01'W
+Kinross	56°13'N	03°25'W
+Kintyre	55°30'N	05°35'W
+Kintyre, Mull of	55°17'N	05°47'W
+Kirkby	53°30'N	02°54'W
+Kirkby Lonsdale	54°12'N	02°36'W
+Kirkcaldy	56°07'N	03°09'W
+Kirkcudbright	54°50'N	04°02'W
+Kirkwall	58°59'N	02°58'W
+Kirriemuir	56°41'N	03°01'W
+Knaresborough	54°01'N	01°28'W
+Knighton	52°21'N	03°03'W
+Kyle of Lochalsh	57°17'E	05°44'W
+Mablethorpe	53°20'N	0°15'E
+Macclesfied	53°15'N	02°08'W
+Macduff	57°40'N	02°31'W
+Machynlleth	52°35'N	03°50'W
+Maesteg	51°36'N	03°40'W
+Magherafelt	54°45'N	06°37'W
+Maidenhead	513°31'N	0°42'W
+Maidstone	51°16'N	0°32'E
+Main	54°48'N	06°18'W
+Mainland, Orkney	58°59'N	03°08'W
+Mainland, Shet.	60°15'N	01°22'W
+Malton	54°08'N	0°49'W
+Malvern Hills	52°0'N	02°19'W
+Man I.of	54°15'N	04°30'W
+Manchester	53°29'N	02°12'W
+Mansfield	53°09'N	01°11'W
+March	52°33'N	0°05'E
+Maree L.	57°40'N	05°26'W
+Market Drayton	52°54'N	02°29'W
+Marlborough	51°25'N	01°43'W
+Marlborough Downs	51°27'N	01°53'W
+Maryport	54°44'N	03°28'W
+Matlock	53°09'N	01°33'W
+Maughold Hd.	24°50'N	81°55'E
+Maybole	55°21'N	04°42'W
+Medway	51°25'N	0°32'E
+Medway	51°27'N	0°46'E
+Melrose	55°36'N	02°43'W
+Melton Mowbray	52°47'N	0°54'W
+Menai Strait	53°11'N	04°13'W
+Mendip Hills	51°17'N	02°40'W
+Mere	51°06'N	02°16'W
+Meriden	52°26'N	01°38'W
+Merrick	55°08'N	04°28'W
+Mersea I.	51°47'N	0°58'E
+Mersey	53°25'N	03°01'W
+Merseyside	53°31'N	3°02'W
+Merthyr Tydfil	51°45'N	03°22'W
+Merthyr Tydfil	51°46'N	03°21'W
+Middlesbrough	54°35'N	01°13'W
+Middlesbrough	54°28'N	01°13'W
+Meddletown	54°17'N	06°51'W
+Midhurst	50°59'N	0°44'W
+Midlothisn	55°51'N	03°05'W
+Mildenhall	52°21'N	0°32'E
+Milford Haven	51°42'N	05°07'W
+Millom	54°13M	0°16'W
+Milton Keynes	52°01'N	0°44'W
+Minehead	51°12'N	03°29'W
+Mineola N.Y.	40°45M	73°39'W
+Moffat	55°21'N	03°27'W
+Moidart L.	56°47'N	05°52'W
+Mold	53°09'N	03°08'W
+Mole	51°24'N	0°21'W
+Monadhiliath Mts.	57°10'N	04°04'W
+Monar L.	57°26'N	05°08'W
+Moneymore	54°41'N	06°40'W
+Monifieth	56°30'N	02°48'W
+Monmouth	51°48'N	02°42'W
+Monmouthshire	5148'N	02°54'W
+Montgomery	52°34'N	03°08'W
+Montrose	56°44'N	02°27'W
+Moorfoot Hills	55°44'N	03°08'W
+Morar L.	56°57'N	05°40'W
+Moray	57°31'N	03°18'W
+Moray Firth	57°40'N	03°52'W
+Morecambe	54°05'N	02°52'W
+Morecambe B.	54°07'N	03°0'W
+Morpeth	55°10'N	01°41'W
+Morven	56°38'N	05°44'W
+Motherwell	55°47'N	03°58'W
+Mountain Ash	51°40'N	03°23'W
+Mourne	54°52'N	07°26'W
+Mourne Mts.	54°10'N	06°0'W
+Muck	56°50'N	06°15'W
+Mull	56°25'N	05°56'W
+Mull Sound of	56°30'N	05°50'W
+Musselburgh	55°57'N	03°02'W
+Mynydd Du.	51°52'N	03°50'W
+Na Hearadh / Harris	57°50'N	06°55'W
+Nairn	57°35'N	03°53'W
+Nantwich	53°04'N	02°31'W
+Naver	58°32'N	04°14'W
+Naze, The	51°53'N	01°18'E
+Neagh Lough	54°37'N	06°25'W
+Neath	51°39'N	03°48'W
+Neath Port Talbot	51°42'N	03°45'W
+Needles The	59°39'N	01°35'W
+Nefyn	52°56'N	04°31'W
+Nelson	53°50'N	02°13'W
+Nene	52°49'N	0°11'E
+Ness L.	57°15'N	04°32'W
+New Forest	50°53'N	01°34'W
+New Galloway	55°05'N	04°09'W
+Nw Quay	52°13'N	04°21'W
+New Radnor	52°15'N	03°09'W
+New Romney	50°59'N	0°57'E
+New Scone	56°25'N	03°24'W
+New Tredegar	51°44'N	03°16'W
+Newark-on-Trent	53°05'N	0°48'W
+Newbury	51°24'N	01°20'W
+Newcastle	54°13'N	05°54'W
+Newcastle Emlyn	52°02'N	04°28'W
+Newcastle-under-Lyme	53°01'N	02°14'W
+Newcastle-upon-Tyne	54°58'N	01°36'W
+Newhaven	50°47'N	0°03'E
+Newlyn	50°06'N	05°34'W
+Newmarket	52°15'N	0°25'E
+Newport I. Of W.	50°42'N	01°17'W
+Newport Newp.	51°35'N	03°0'W
+Newport	51°33'N	30°01'W
+Newport Pagnell	52°05'N	0°43'W
+Newquay	50°25'N	05°06'W
+Newry	54°11'N	06°21'W
+Newton Abbot	50°32'N	03°37'W
+Newton Aycliffe	54°37'N	01°34'W
+Newton Stewart	54°57'N	04°30'W
+Newtonmore	57°04'N	04°08'W
+Newtown	52°31'N	03°19'W
+Newtownabbey	54°40'N	05°56'W
+Newtownards	54°36'N	05°42'W
+Newtownstewart	54°43'N	07°23'W
+Nidd	53°59'N	01°23'W
+Nith	55°14'N	03°33'W
+Norfolk	52°39'N	0°51'E
+North Ayshire	55°45'N	04°44'W
+North Berwick	56°04'N	02°42'W
+North Channel	55°13'N	05°52'W
+North Downs	51°19'N	0°21'E
+North East Lincolnshire	53°34'N	0°2'W
+North Esk	56°46'N	02°24'W
+North Foreland	51°22'N	01°28'E
+North Lanarkshire	55°52'N	03°56'W
+North Lincolnshire	53°36'N	0°30'W
+North Minch	58°05'N	05°55'W
+North Ronaldsay	59°221'N	02°26'W
+North Somerset	51°24'N	02°45'W
+North Uist	57°40'N	07°15'W
+North Walsham	52°50'N	01°22'E
+North West Highlands	57°33'N	04°58'W
+North York Moors	54°23'N	0°53'W
+North Yorkshire	54°15'N	01°25'W
+Northallerton	54°20'N	01°26'W
+Northampton	52°15'N	0°53'W
+Northamptonshire	52°16'N	0°55'W
+Northern Ireland	54°45'N	07°0'W
+Northumberland	55°12'N	02°0'W
+Norwich	52°38'N	01°18'E
+Noss Hd.	58°28'N	03°03'W
+Nottingham	52°58'N	01°10'W
+Nottingham, City of	52°58'N	01°10'W
+Nottinghamshire	53°10'N	01°03'W
+Oa, Mull of	55°35'N	06°20'W
+Oakham	52°40'N	0°43'W
+Oban	56°25'N	05°29'W
+Ochil Hills	56°14'N	03°40'W
+Okehampton	50°44'N	04°0'W
+Oldbury	51°38'N	02°33'W
+Oldham	53°33'N	02°07'W
+Oldmeldrum	57°20'N	02°19'W
+Omagh	54°36'N	07°19'W
+Omagh	54°35'N	07°15'W
+Orford Ness	52°05'N	01°35'E
+Orkney	59°02'N	03°13'W
+Orkney Is.	59°0'N	03°0'W
+Ormskirk	53°35'N	02°54'W
+Oronsay	56°01'N	06°15'W
+Orwell	51°59'N	01°18'E
+Oswestry	52°52'N	03°03'W
+Ottery St. Mary	50°44'N	03°17'W
+Ouse E. Susx.	50°47'N	0°40'E
+Ouse N. Yorks	53°44'N	0°55'W
+Outer Hebrides	57°30'N	07°40'W
+Oxford	51°46'N	01°15'W
+Oxfordshire	51°48'N	01°16'W
+Oykel	57°56'N	04°26'W
+Pabbay	57°46'N	07°14'W
+Padstow	50°33'N	04°58'W
+Paignton	50°26'N	03°35'W
+Paisley	55°50'N	04°25'W
+Papa Stour	60°20'S	01°42'W
+Papa Westray	59°20'N	02°55'W
+Parrett	51°12'N	03°01'W
+Peak The / Kinder Scout	53°24'N	01°52'W
+Peak District	53°10'N	01°50'W
+Peebles	55°40'N	03°11'W
+Peel	54°13'N	04°40'W
+Pembroke	51°41'N	04°55'W
+Pembrokeshire	51°52'N	04°56'W
+Pen-y-Ghent	54°10'N	02°14'W
+Penarth	51°26'N	03°11'W
+Penicuik	55°50'N	03°13'W
+Penkridge	52°44'N	02°06'W
+Pennines	54°45'N	02°27'W
+Penryn	50°09'N	05°07'W
+Pentland Firth	58°43'N	03°10'W
+Pentland Hills	55°48'N	03°25'W
+Penzance	50°07'N	05°33'W
+Perth	56°24'N	03°26'W
+Perth & Kinross	56°45'N	03°55'W
+Peterborough	52°35'N	0°15'W
+Peterborough	52°35'N	0°15'W
+Peterculter	57°06'N	02°16'W
+Petrehead	57°31'N	01°48'W
+Peterlee	54°47'N	01°20'W
+Petersfield	51°01'N	0°56'W
+Pickering	54°15'N	0°46'W
+Pickering Vale of	54°14'N	0°45'W
+Pitlochry	56°42'N	03°44'W
+Plymouth	50°22'N	04°10'W
+Plynlimon / Pumlumon Fawr	52°28'N	03°46'W
+Poole	50°43'N	01°59'W
+Poole	50°43'N	01°59'W
+Port Ellen	55°38'N	06°11'W
+Port Erin	54°05'N	04°45'W
+Port Glasgow	55°56'N	04°41'W
+Port Talbot	51°35'N	03°47'W
+Portadown	54°25'N	06°27'W
+Portaferry	54°23'N	05°33'W
+Porthcawl	51°29'N	03°42'W
+Portmadog	52°55'N	04°08'W
+Portishead	51°29'N	02°46'W
+Portknockie	57°42'N	02°51'W
+Portland I. Of	50°33'N	02°26'W
+Portland Bill	50°31'N	02°28'W
+Portmadoc / Porthmadog	52°55'N	04°08'W
+Portpatrick	54°51'N	05°07'W
+Portree	54°51'N	05°07'W
+Portrush	55°12'N	06°40'W
+Portsmouth	50°48'N	01°06'W
+Portsmouth	50°48'N	01°06'W
+Portsoy	57°41'N	02°41'W
+Portstewart	55°11'N	06°43'W
+Poulton-Le-Fylde	53°51'N	02°58'W
+Powys	52°20'N	03°20'W
+Prestatyn	53°20'N	03°24'W
+Presteigne	52°17'N	03°0'W
+Preston	53°46'N	02°42'W
+Prestwick	55°29'N	04°37'W
+Pumlumon Fawr	52°28'N	03°46'W
+Purbeck, Isle of	50°39'N	01°59'W
+Pwllheli	52°53'N	04°25'W
+Quantock Hills	51°08'N	03°10'W
+Raasay	557°25'N	06°04'W
+Rassay Sd. Of	57°30'N	06°08'W
+Radnor Forest	52°17'N	03°10'W
+Ramsgate	51°20'N	01°25'E
+Randalstown	54°45'N	06°19'W
+Rannoch L.	56°41'N	04°20'W
+Rannoch Moor	56°38'N	04°48'W
+Rathlin I.	55°18'N	06°14'W
+Rattray Hd.	57°38'N	01°50'W
+Rayleigh	51°36 'N	0°.7'E
+Reading	51°27'N	0°58'W
+Reading	51°27'N	0°58'W
+Reay Forest	58°22'N	04°55'W
+Redcar	54°37'N	01°04'W
+Redcar & Cleveland	54°29'N	01°0'W
+Redditch	52°18'N	01°55'W
+Redruth	50°14'N	05°14'W
+Reigate	51°14'N	0°12'W
+Renfrewshire	55°49'N	04°38'W
+Retford	53°19'N	0°56'W
+Rhayader	52°18'N	03°29'W
+Rhinis Pt.	55°40'N	06°29'W
+Rhondda	51°39'N	03°31'W
+RhonddaCynon Taff	51°42'N	03°27'W
+Rhum	57°0'N	06°20'W
+Rhyl	53°2N0	03°29'W
+Ribble	53°52'N	02°25'W
+Richmond	54°25'N	1°43'W
+Ripon	54°91'N	1°31'W
+Rochdale	53°38'N	2°9'W
+Rochester	51°23'N	0°31'E
+Roe	55°6'N	6°59'W
+Romney Marsh	51°2'N	0°54'E
+Rona	57°34'N	5°59'W
+Rossall Pt.	53°55'N	3°3'W
+Rother	50°59'N	0°45'E
+Rotherham	53°26'N	1°20'W
+Rothers	57°32'N	3°13'W
+Rousay	59°10'N	3°2'W
+Royal Leamington Spa	52°18'N	1°31'W
+Royal Tunbridge Wells	51°7'N	0°16'E
+Royston	52°3'N	0°0'W
+Rubha Hunish	57°42'N	6°20'W
+Rugby	52°23'N	1°16'W
+Rum / Rhum	57°0'N	6°20'W
+Runcorn	53°21'N	2°44'W
+Rushden	52°18'N	0°35'W
+Rutland Water	52°39'N	0°38'W
+Ryan L.	55°0'N	5°2'W
+Rye	50°57'N	0°45'E
+Rye bay	50°52'N	0°49'E
+St. Abb's Head	55°55'N	2°8'W
+St. Austell	50°20'N	4°47'W
+St. Bees Hd.	54°31'N	3°38'W
+St. Brides B.	51°496'N	5°9'W
+St. David's	51°53'N	5°16'W
+St. David's Head	51°53'N	5°16'W
+St. Helier	49°10'N	2°7'W
+St. Ives	50°12'N	5°30'W
+St. Mary's Corn	49°55'N	6°18'W
+St. Marys Orkney	58°54'N	2°54'W
+St. Neots	52°14'N	0°15'W
+Saintfield	54°28'N	5°49'W
+Salcombe	50°14'N	3°47'W
+Sale	53°26'N	2°19'W
+Salford	53°30'N	2°18'W
+Salisbury	51°4'N	1°47'W
+Saltash	50°24'N	4°14'W
+Saltburn By the sea	54°35'N	0°58'W
+Saltcoats	55°38'N	4°47'W
+Sanday	59°16'N	2°31'W
+Sandray	56°53'N	7°31'W
+Sandringham	52°51'N	0°31'E
+Sanquhar	55°22'N	3°54'W
+Sark	49°25'N	2°22'W
+Sawel Mt.	54°50'N	7°2'W
+Saxmundham	52°13'N	1°30'E
+Scafell Pike	54°27'N	3°14'W
+Scalloway	60°6'N	1°17'W
+Scalpay	57°18'N	6°0'W
+Scapa Flow	58°53'N	3°3'W
+Scarba	56°11'N	5°43'W
+Scarborough	54°17'N	0°24'W
+Scarp	58°1'N	7°8'W
+Scilly, Isles of	49°56'N	9°22'W
+Scotland	57°0'N	4°0'W
+Scottish Borders	55°35'N	2°50'W
+Scuntrhorpe	53°36'N	0°39'W
+Seaford	50°47'N	0°7'E
+Seaham	54°50'N	1°20'W
+Seascale	54°24'N	3°29'W
+Seil	56°18'N	5°38'W
+Selby	53°47'N	1°5'W
+Selkirk	55°33'N	2°50'W
+Selsey Bill	50°43'N	0°47'W
+Settle	54°5'N	2°16'W
+Silloth	54°52'N	3°23'W
+Sinclair's B	58°31'N	3°5'W
+Sion Mills	54°48'N	7°29'W
+Sittingbourne	51°21'N	0°45'E
+Skegness	53°9'N	0°20'E
+Skerries, The	53°25'N	4°36'W
+Skiddaw	54°39'N	3°9'W
+Skipton	53°58'N	2°3'W
+Sleaford	53°0'N	0°24'W
+Sleat Sd. Of	57°5'N	5°47'W
+Slieve Donard	54°11'N	5°55'W
+Slieve Gullion	54°7'N	6°26'W
+Slough	51°30'N	0°36'W
+Slough	51°30'N	0°36'W
+Snaefell	54°16'N	4°27'W
+Snizort L.	57°33'N	6°58'W
+Snowdon	53°4'N	4°5'W
+Solway Firth	54°49'N	3°35'W
+Somerset	51°9'N	3°0'W
+Sound The	50°20'N	4°10'W
+South Downs	50°52'N	0°25'W
+South Esk	563°43'N	2°31'W
+South Molton	51°1'N	3°51'W
+South Ronaldsay	58°48'N	2°58'W
+South Shields	55°0'N	1°25'W
+South Uist	57°20'N	7°15'W
+South Yorkshire	53°27'N	1°36'W
+Southampton	50°54'N	1°23'W
+Southend-on-sea	51°32'N	0°44'E
+Southern Uplands	55°28'N	3°52'W
+Southwold	52°20'N	1°41'E
+Spean	56°55'N	4°59'W
+Spennymoor	54°42'N	1°36'W
+Spey	57°40'N	3°6'W
+Spennymoor	54°42'N	1°36'W
+Sperrin Mts.	54°50'N	7°0'W
+Spey	57°40'N	3°6'W
+Spitheak	50°45'N	1°10'W
+Spurn Hd.	53°35'N	0°8'E
+Stafford	52°49'N	2°7'W
+Staines	51°26'N	0°29'W
+Stamford	52°39'N	0°29'W
+Sutton in Ashfield	53°8'N	1°16'W
+swale	54°5'N	1°20'W
+Swanage	50°36'N	1°58'W
+Swansea	51°37'N	3°57'W
+Swindon	51°34'N	1°46'W
+Tain	57°49'N	4°4'W
+Tamar	50°27'N	4°15'W
+Tamworth	52°39'N	1°41'W
+Taunton	51°1'N	3°5'W
+Taw	51°4'N	4°4'W
+Tay	56°37'N	3°38'W
+Tay L.	56°32'N	4°8'W
+Tay firth of	56°25'N	3°8'W
+Tayport	56°27'N	2°52'W
+Tees	54°37'N	1°10'W
+Teign	50°32'N	3°32'W
+Teignmouth	50°33'N	3°31'W
+Telford	52°40'N	2°27'W
+Teme	52°11'N	1°13'W
+Tenby	51°40'N	4°42'W
+Tenterden	51°4'N	0°42'E
+Test	50°56'N	1°29'W
+Teviot	55°29'N	2°38'W
+Thanet I of	51°21'N	1°20'E
+Thetford	52°25'N	0°45'E
+Thirsk	54°14'N	1°19'W
+Thorne	53°37'N	0°57'W
+Thorne	53°37'N	0°57'W
+Thurrock	51°31'N	0°23'E
+Thurso	58°36'N	3°32'W
+Tilbury	51°27'N	0°22'E
+Till	55°41'N	2°13'W
+Tilt	56°46'N	3°51'W
+Tiree	56°31'N	6°55'W
+Toe Hd.	57°50'N	7°8'W
+Tonbridge	51°11'N	0°17'E
+Tongue	58°29'N	4°25'W
+Torfaen	51°43'N	3°3'W
+Torquay	50°27'N	3°32'W
+Torridge	51°0'N	4°13'W
+Totnes	50°26'N	3°42'W
+Tregaron	52°14'N	3°56'W
+Tresco	49°57'N	6°20'W
+Troon	55°33'N	4°39'W
+Trostan	55°3'N	6°10'W
+Trowbridge	51°18'N	2°12'W
+Truro	50°16'N	5°4'W
+Tunbridge Wells / Royal Tunbridge Wells	51°7'N	0°16'E
+Turriff	57°32'N	2°27'W
+Tyne	54°59'N	1°32'W
+Tyne & Wear	55°6'N	1°17'W
+Tynemouth	55°1'N	1°26'W
+Tyrone	54°38'N	7°11'W
+Tywi	51°48'N	4°21'W
+Tywyn	52°35'N	4°5'W
+Uibhist a Tuath / North Uist	57°40'N	7°15'W
+Uig.	57°35'N	6°21'W
+Ullswater	54°34'N	2°52'W
+Ulsta	60°30'N	1°9'W
+Ulster	54°35'N	6°30'W
+Ulva	56°29'N	6°13'E
+Ulverston	54°13'N	3°5'W
+Unst	60°44'N	0°53'W
+Uttoxeter	52°54'N	1°52'W
+Vale of Glamorgan	51°28'N	3°25'W
+Vatersay	56°55'N	7°32'W
+Ventnor	50°36'N	1°12'W
+Voe	60°21'N	1°16'W
+Vyrnwy L.	52°48'N	3°31'W
+Wakefield	53°41'N	1°29'W
+Wales	52°19'N	4°43'W
+Walls	60°14'N	1°33'W
+Walney I. Of	54°6'N	3°15'W
+Walsall	52°35'N	1°58'W
+Walton-on-the-Naze	551°51'N	1°17'E
+Wantage	51°35'N	1°25'W
+Warminster	51°12'N	2°10'W
+Warrenpoint	54°6'N	6°15'W
+Warrington	53°24'N	2°35'W
+Warwick	52°18'N	1°35'W
+Warwickshire	52°14'N	1°38'W
+Wash The	52°58'N	0°20'E
+Washington	54°55'N	1°30'W
+Watford	51°40'N	0°24'W
+Waveney	52°35'N	1°39'E
+Weald The	51°4'N	0°20'E
+Wear	54°55'N	1°23'W
+Welland	52°51'N	0°5'W
+Welland	52°51'N	0°5'W
+Wellingborough	52°19'N	0°41'W
+Wellington Somst	50°58'N	3°13'W
+Wellington Telfor & Wrekin	52°42'N	2°30'W
+Wells	51°13'N	2°39'W
+Wells-next-the-sea	52°57'N	0°51'E
+Welshpool	52°39'N	3°8'W
+Welwyn Garden City	51°48'N	0°12'W
+Wem	52°52'N	2°44'W
+Wenslyydale	54°17'N	2°0'W
+Wensum	52°40'N	1°15'E
+West Berkshire	51°25'N	1°17'W
+West Bromwich	52°32'N	1°59'W
+West Burra	60°5'N	1°21'W
+West Dunbartonshire	55°59'N	4°30'W
+Wwst Lothian	55°54'N	3°36'W
+Wesst Midlands	52°26'N	2°0'W
+West Sussex	50°55'N	0°30'W
+West Yorkshire	53°45'N	1°40'W
+Western Isles	57°30'N	7°10'W
+Westhill	57°9'N	2°19'W
+Westray	59°18'N	3°0'W
+Wetherby	53°56'N	123'W
+Whalsay	60°22'S	0°59'W
+Wharfe	54°6'N	2°1'W
+Whernside	54°14'N	2°24'W
+Whitby	54°29'N	0°37'W
+White Horese Vale of	51°37'N	1°30'W
+Whitehaven	54°33'N	3°35'W
+Whithorn	54°44'N	4°26'W
+Whitstable	51°21'N	1°3'E
+Wiay	57°24'N	7°13'W
+Wick	58°26'N	3°5'W
+Wigston	52°35'N	1°6'W
+Wigtown	54°53'N	4°27'W
+Wigtown B.	54°46'N	4°15'W
+Wilmslow	53°19'N	2°13'W
+Wiltshire	51°18'N	1°53'W
+Wimborne Minister	50°48'N	1°59'W
+Winchester	51°4'N	1°18'W
+Windermere	54°23'N	2°55'W
+Windrush	51°43'N	1°24'W
+Windsor	51°29'N	0°36'W
+Winsford	53°12'N	2°31'W
+Witham	51°48'N	0°40'E
+Winthernsea	53°44'N	0°1'E
+Woking	51°19'N	0°34'W
+Wokingham	51°25'N	0°51'W
+Wolverhampton	52°35'N	2°7'W
+Woodbridge	52°6'N	1°20'E
+Woodstock	51°51'N	1°20'W
+Wooler	55°33'N	2°1'W
+Wrocester	52°11'N	2°12'W
+Worcestershire	52°13'N	2°10'W
+Wrokington	54°39'N	3°33'W
+Wroksop	53°18'N	1°7'W
+Worthing	50°49'N	20°21'W
+Wrekin	52°41'N	2°32'W
+Wrekin	52°41'N	2°32'W
+Wrexham	53°3N'N	3°0'W
+Wye	51°38'N	2°40'W
+Yell	60°35'N	1°5'W
+Yess Sd.	60°33'N	1°15'W
+Yeo	51°2'N	2°49'W
+Yeovil	50°57'N	2°38'W
+Yes Tor	50°41'N	4°0'W
+York	53°58'N	1°6'W
+York Vale of	54°15'N	1°25'W
+Yorskhire Wolds	54°8'N	0°31'W
+Ythan	57°19'N	1°59'W
