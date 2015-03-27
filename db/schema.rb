@@ -11,11 +11,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150324131435) do
+ActiveRecord::Schema.define(version: 20150327111647) do
 
   create_table "categories", force: true do |t|
     t.string   "forsquare_id"
     t.string   "string"
+    t.string   "name"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "groups", force: true do |t|
     t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
@@ -28,6 +34,32 @@ ActiveRecord::Schema.define(version: 20150324131435) do
     t.string   "status"
     t.datetime "created_at"
     t.datetime "updated_at"
+  end
+
+  create_table "resturent_groups", force: true do |t|
+    t.integer  "resturent_id"
+    t.integer  "group_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "resturent_groups", ["group_id"], name: "index_resturent_groups_on_group_id"
+  add_index "resturent_groups", ["resturent_id"], name: "index_resturent_groups_on_resturent_id"
+
+  create_table "resturents", force: true do |t|
+    t.string   "rating"
+    t.string   "name"
+    t.string   "phone"
+    t.string   "postal_code"
+    t.text     "address"
+    t.string   "country"
+    t.string   "state_code"
+    t.string   "lat"
+    t.string   "long"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.string   "yelp_id"
+    t.string   "city"
   end
 
   create_table "venue_categories", force: true do |t|

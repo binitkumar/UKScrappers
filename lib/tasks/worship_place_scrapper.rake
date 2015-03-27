@@ -98,7 +98,7 @@ namespace :db do
                         VenueCategory.create(venue_id: current_venue.id, category_id: associated_category.id, primary: categ.primary)
                       else
                         associated_category = Category.create(forsquare_id: categ.id, name: categ.name)
-                        VenueCategory.create(venue_id: venue.id, category_id: associated_category.id, primary: categ.primary)
+                        VenueCategory.create(venue_id: current_venue.id, category_id: associated_category.id, primary: categ.primary)
                       end
                     end
                   end 
