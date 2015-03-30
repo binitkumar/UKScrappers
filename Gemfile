@@ -39,3 +39,8 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 gem 'rest-client'
 gem 'foursquare2'
+gem 'yelp', require: 'yelp'
+gem 'geocoder'
+gem 'nokogiri'
+gem 'watir'
+gem "selenium-webdriver", "~> 2.38.0"

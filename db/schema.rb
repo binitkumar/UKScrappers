@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150327111647) do
+ActiveRecord::Schema.define(version: 20150330100250) do
 
   create_table "categories", force: true do |t|
     t.string   "forsquare_id"
@@ -60,6 +60,12 @@ ActiveRecord::Schema.define(version: 20150327111647) do
     t.datetime "updated_at"
     t.string   "yelp_id"
     t.string   "city"
+  end
+
+  create_table "triadviser_resturents", force: true do |t|
+    t.text     "link"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "venue_categories", force: true do |t|
